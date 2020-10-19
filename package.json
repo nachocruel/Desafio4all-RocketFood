@@ -1,0 +1,23 @@
+{
+  "name": "desafio4all",
+  "version": "1.0.0",
+  "description": "Projeto do desafio rocket food (4All).",
+  "main": "index.js",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-formidable": "^1.2.0",
+    "express-session": "^1.17.1",
+    "lodash": "^4.17.20",
+    "morgan": "^1.10.0",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edvan Santos Souza",
+  "license": "ISC"
+}
